@@ -1,0 +1,16 @@
+{
+  "name": "restify-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.14.3",
+    "restify": "^6.3.4"
+  }
+}
